@@ -42,15 +42,14 @@ while True:
         print(Fore.RED, Back.BLACK + f'You lose! You have {points} points.')
 
     a = input('Type [yes] to play again or [no] to quit: ')
-    if a == 'yes':
-        continue
-    elif a == 'no':
-        print('Thank you for playing!')
-        break
-    else:
-        print('Incorrect answer!')
-        a = input('Try again!\nType [yes] to play again or [no] to quit: ')
-        continue
-
+    while a != 'yes' or a != 'no':
+        if a == 'yes':
+            break
+        elif a == 'no':
+            print('Thank you for playing!')
+            exit()
+        else:
+            print('Incorrect answer!')
+            a = input('Try again!\nType [yes] to play again or [no] to quit: ')
 
 

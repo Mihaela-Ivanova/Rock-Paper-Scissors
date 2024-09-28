@@ -15,7 +15,6 @@ https://pastebin.com/dm1aYSm5
 
 Output of the code should look like this:
 
-![image_2024_09_24T15_09_03_499Z](https://github.com/user-attachments/assets/d28763ca-8006-4c11-aad2-642c58bc29fa)
 ![image_2024_09_24T15_08_40_774Z](https://github.com/user-attachments/assets/5c7f8e16-c6f7-42a7-b799-6d1d3abee74b)
 
 

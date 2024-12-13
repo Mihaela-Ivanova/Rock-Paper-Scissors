@@ -13,7 +13,7 @@ In the project different algorithms, technologies and libriries have been used. 
 # 💻 Source code link
 https://pastebin.com/dm1aYSm5
 
-# 🔍 Screenshots
+# 📷 Screenshots
 Тhe beginning of the project:
 
 ![image_2024_09_24T15_09_03_499Z](https://github.com/user-attachments/assets/cc17d7b4-33aa-41ed-a271-ba91d14dfb11)

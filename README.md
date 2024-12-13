@@ -18,7 +18,7 @@ https://pastebin.com/dm1aYSm5
 
 ![image_2024_09_24T15_09_03_499Z](https://github.com/user-attachments/assets/cc17d7b4-33aa-41ed-a271-ba91d14dfb11)
 
-Output of the code should look like this:
+Output of the code should look like this 🔚:
 
 ![image_2024_09_24T15_08_40_774Z](https://github.com/user-attachments/assets/5c7f8e16-c6f7-42a7-b799-6d1d3abee74b)
 

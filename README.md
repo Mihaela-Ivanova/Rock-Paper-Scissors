@@ -1,4 +1,4 @@
-# The "Rock-Peper-Scissors" Game
+# 📎 The "Rock-Peper-Scissors" Game
 
 ![rock-paper-scissors-game-rules](https://github.com/user-attachments/assets/e0aa1d44-fbda-4565-ad3e-0179a57ee6fa)
 

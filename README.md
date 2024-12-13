@@ -8,7 +8,7 @@
 ![Екранна снимка 2024-09-24 181225](https://github.com/user-attachments/assets/d0593186-5090-4a09-9510-9ddce9f4b67e)
 
 # 📝 Solutions
-(⊙_⊙;) In the project different algorithms, technologies and libriries have been used. Mostly if-else statments for the different outcomes of the game. Library for the coloring of the text and while loop for the repeating of the game.
+In the project different algorithms, technologies and libriries have been used. Mostly if-else statments for the different outcomes of the game. Library for the coloring of the text and while loop for the repeating of the game.
 
 # 💻 Source code link
 https://pastebin.com/dm1aYSm5
